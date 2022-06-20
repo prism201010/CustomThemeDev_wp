@@ -1,0 +1,18 @@
+spike
+fog 
+volume
+load-j meter
+
+
+lighthouse-google
+axe
+wave
+jaws
+
+local host new user_
+username : aswinmshenoy
+pass : #1122Aswin@
+
+https://developer.wordpress.org/themes/basics/main-stylesheet-style-css/
+https://developer.wordpress.org/themes/basics/template-hierarchy/
+https://developer.wordpress.org/themes/classic-themes/
